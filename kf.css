@@ -45,10 +45,10 @@ h6	{
 	font-size: 109%;
 	text-shadow: 1px 1px 1px #FFFFFF;
 	}
-p:not(.subhead)	{
+p	{
 	color: #FFFFFF;
 	padding: 12px;
-	background-color: #000000
+	background-color: #000000;
 	font-family: 'Kalam', cursive;
 	}
 #all	{
