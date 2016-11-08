@@ -74,7 +74,11 @@ p	{
 	}
 .heading{
 	color: #ff0000;
-	font-family: 'Face Your Fears.ttf', regular;
+	font-family: 'Face Your Fears', normal;
+	}
+@font-face	{
+	font-family: 'Face Your Fears';
+    	src: url(Face Your Fears.ttf);
 	}
 .subhead{
 	color: #d6d6d6;
