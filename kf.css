@@ -6,6 +6,7 @@
 	@import url('https://fonts.googleapis.com/css?family=VT323');
 	@import url('https://fonts.googleapis.com/css?family=Rock+Salt');
 	@import url('https://fonts.googleapis.com/css?family=Kalam');
+	@import url('https://fonts.googleapis.com/css?family=Yesteryear');
 html	{
 	background-color: #000000;
 	}
@@ -83,6 +84,7 @@ p:not(.subhead)	{
 	color: #d6d6d6;
 	text-align: center;
 	font-size: 120%;
+	font-family: 'Yesteryear', cursive;
 	}
 li a	{
 	display: block;
