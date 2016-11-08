@@ -17,7 +17,6 @@ footer	{
 	}
 h1	{
 	text-align: center;
-	font-family: 'Lobster', cursive;
 	font-size: 400%;
 	text-shadow: 6px 6px 6px #FFFFFF;
 	background-color: #000000
@@ -25,27 +24,22 @@ h1	{
 h2	{
 	text-align: center;	
 	font-size: 250%;
-	font-family: 'Permanent Marker', cursive;
 	text-shadow: 5px 5px 5px #FFFFFF;
 	}
 h3	{
 	font-size: 175%;
-	font-family: 'Permanent Marker', cursive;
 	text-shadow: 4px 4px 4px #FFFFFF;
  	}
 h4	{
 	font-size: 138%;
-	font-family: 'Permanent Marker', cursive;
 	text-shadow: 3px 3px 3px #FFFFFF;
 	}
 h5	{
 	font-size: 119%;
-	 font-family: 'Permanent Marker', cursive;	
 	 text-shadow: 2px 2px 2px #FFFFFF;
 	}
 h6	{
 	font-size: 109%;
-	font-family: 'Permanent Marker', cursive;
 	text-shadow: 1px 1px 1px #FFFFFF;
 	}
 p	{
@@ -80,6 +74,7 @@ p	{
 	}
 .heading{
 	color: #ff0000;
+	font-family: 'Face Your Fears', regular;
 	}
 .subhead{
 	color: #d6d6d6;
