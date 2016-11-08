@@ -20,32 +20,32 @@ footer	{
 	}
 h1	{
 	text-align: center;
-	font-size: 400%;
+	font-size: 300%;
 	text-shadow: 6px 6px 6px #FFFFFF;
 	background-color: #000000
 	}
 h2	{
 	text-align: center;	
-	font-size: 250%;
+	font-size: 200%;
 	text-shadow: 5px 5px 5px #FFFFFF;
 	}
 h3	{
-	font-size: 175%;
+	font-size: 150%;
 	text-shadow: 4px 4px 4px #FFFFFF;
  	}
 h4	{
-	font-size: 138%;
+	font-size: 125%;
 	text-shadow: 3px 3px 3px #FFFFFF;
 	}
 h5	{
-	font-size: 119%;
+	font-size: 112.5%;
 	 text-shadow: 2px 2px 2px #FFFFFF;
 	}
 h6	{
-	font-size: 109%;
+	font-size: 106.25%;
 	text-shadow: 1px 1px 1px #FFFFFF;
 	}
-p	{
+p:not(.subhead)	{
 	color: #FFFFFF;
 	padding: 12px;
 	background-color: #000000;
@@ -83,7 +83,7 @@ p	{
 .subhead{
 	color: #d6d6d6;
 	text-align: center;
-	font-size: 120%;
+	font-size: 150%;
 	font-family: 'Yesteryear', cursive;
 	}
 li a	{
