@@ -60,18 +60,21 @@ p	{
 	color: #FFFFFF;
 	background-color: #000000;
 	background-image: url(https://i3wbra.bl3302.livefilestore.com/y3mUMuyBir58AjoXZ20XIRCCVSppaDquuzi1vOwNE5I7qLnzzMLz4XP7j70wbDk8ySjkubWglDaZCu3d6jPGNV-A5K8rQGaP-Fuhbx9MeVKrUqV5b9fXxQ0mgQ1ketplQqv3A6dKIUqK_hkXcA8twpv5niFOygdf69G1QFOUEHeVt4/Art1forsite.jpg?psid=1);
+	padding: 1%;
 	}
 .navbar {
         color: #000000;
 	font-family: 'Aldrich', sans-serif;
 	text-decoration: none;
+        }
+.navnavbar	{
 	display: block;
 	margin: auto;
 	max-width: 2000px;
 	min-width: 300px;
 	width: auto;
 	text-decoration: none;
-        }
+	}
 .heading{
 	color: #ff0000;
 	}
