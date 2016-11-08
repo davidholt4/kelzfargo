@@ -77,6 +77,11 @@ p	{
 .heading{
 	color: #ff0000;
 	}
+.subhead{
+	color: #d6d6d6;
+	text-align: center;
+	font-size: 120%;
+	}
 li a	{
 	display: block;
 	color: #FFFFFF;
