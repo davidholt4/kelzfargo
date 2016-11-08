@@ -95,3 +95,10 @@ li a:hover	{
 	color: #FFFFFF;
 	text-shadow: 3px 3px 3px #ff0000;
 	}
+ul 	{
+    	list-style-type: none;
+    	margin: auto;
+    	padding: 0;
+    	width: auto;
+    	background-color: #808080;
+	}
