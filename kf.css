@@ -88,14 +88,14 @@ p	{
 	}
 li a	{
 	display: block;
-	color: #FFFFFF;
+	color: #000000;
     	padding: 1%;
     	text-decoration: none;
 	background-color: #808080;
 	border: 2px solid #000000;
 	}
 li a:hover	{
-	color: #FFFFFF;
+	color: #000000;
 	text-shadow: 3px 3px 3px #ff0000;
 	}
 ul 	{
