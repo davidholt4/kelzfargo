@@ -8,6 +8,7 @@
 	@import url('https://fonts.googleapis.com/css?family=Kalam');
 	@import url('https://fonts.googleapis.com/css?family=Yesteryear');
 	@import url('https://fonts.googleapis.com/css?family=Oxygen+Mono');
+	@import url('https://fonts.googleapis.com/css?family=Space+Mono');
 html	{
 	background-color: #000000;
 	}
@@ -109,6 +110,6 @@ ul 	{
 .nfo	{
 	padding: 12px;
 	width: auto;
-	font-family: 'Oxygen Mono', monospace;
+	font-family: 'Space Mono', monospace;
 	background-color: #808080;
 	}
